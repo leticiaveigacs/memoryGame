@@ -23,7 +23,7 @@ Este é um jogo de memória clássico e construído usando HTML, CSS e JavaScrip
 
 Você pode ver uma demosnstração do jogo:
 
-- [Assista ao vídeo](https://github.com/leticiaveigacs/) 
+- [Assista ao vídeo](https://github.com/leticiaveigacs/memoryGame/issues/1#issue-2410707928) 
 
 
 ### Como Executar 💻
