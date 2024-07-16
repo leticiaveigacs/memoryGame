@@ -1,0 +1,17 @@
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#grid img {
+    transition: 0.5s;
+}
+
+#grid img:hover {
+    transform: scale(1.1);
+    filter: grayscale(1);
+    transition: 0.5s;
+    cursor: pointer;
+}

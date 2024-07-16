@@ -1,0 +1,61 @@
+/* Estilização da grade que contém os cartões */
+#grid {
+    width: 400px; /* Largura da grade */
+    height: 400px; /* Altura da grade */
+    display: flex; /* Usar flexbox para o layout */
+    flex-wrap: wrap; /* Permite que os itens se quebrem em várias linhas */ 
+    
+}
+
+/* Estilização das imagens dentro da grade */
+#grid img {
+    transition: 0.5s;  /* Animação suave nas propriedades alteradas */
+    border: 1px solid #fff ; /* Borda branca ao redor das cartas */
+    border-radius: 15px ; /* Arredonda os cantos das cartas */
+    overflow: hidden; /* Esconde qualquer conteúdo que ultrapasse os limites do cartão */
+}
+
+/* Estilização das imagens ao passar o mouse */
+#grid img:hover {
+    transform: scale(1.1); /* Aumenta a imagem em 10% */
+    filter: grayscale(1); /* Aplica um filtro de escala de cinza */
+    transition: 0.5s;  /* Animação suave para a transformação */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+}
+
+/* Estilização da grade em si */
+.grid{
+
+    position: absolute;  /* Posiciona de forma absoluta */
+    top: 50%; /* Centraliza verticalmente */
+    left: 50%; /* Centraliza horizontalmente */
+   
+    transform: translate(-50%, -50%);
+
+}
+
+/* Estilização do título principal */
+h1 {
+    position: absolute; /* Posiciona de forma absoluta */
+    top: 5%;  /* 5% da parte superior da tela */
+    left: 45%;  /* Centraliza horizontalmente */
+
+    transform: translate(-50%, -50%); /* Ajusta a posição para o centro exato */
+  
+  }
+
+  /* Estilização do subtítulo */
+h3 {
+  position: absolute; /* Posiciona de forma absoluta */
+  top: 10%; /* 10% da parte superior da tela */
+  left: 45%;  /* Centraliza horizontalmente */
+  
+  transform: translate(-50%, -50%); /* Ajusta a posição para o centro exato */
+
+}
+
+body{
+    background-color: rgb(176, 231, 252);    
+    
+
+}
