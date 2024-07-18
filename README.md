@@ -1,4 +1,4 @@
-## Memroy Game 🃏 
+## Memory Game 🃏 
 
 Este é um jogo de memória clássico e construído usando HTML, CSS e JavaScript. O objetivo do jogo é encontrar todos os pares de cartas correspondentes no menor número de tentativas possível.
 
