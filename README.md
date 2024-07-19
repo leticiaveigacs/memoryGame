@@ -1,45 +1,45 @@
 ## Memory Game 🃏 
 
-Este é um jogo de memória clássico e construído usando HTML, CSS e JavaScript. O objetivo do jogo é encontrar todos os pares de cartas correspondentes no menor número de tentativas possível.
+This is a classic memory game built using HTML, CSS, and JavaScript. The objective of the game is to find all pairs of matching cards with the fewest attempts possible.
 
-### Informações do Jogo 🕹️
-- O jogo é composto por 12 cartas (6 pares).
-- As cartas são embaralhadas aleatoriamente cada vez que o jogo é iniciado.
-- O jogo finaloza ao enconrtrar todos os pares, exibindo o número total de tentativas e o tempo total em segundos.
+### Game Information 🕹️
+- The game consists of 12 cards (6 pairs).
+- The cards are shuffled randomly each time the game starts.
+- The game ends when all pairs are found, displaying the total number of attempts and the total time in seconds.
 
-### Descrição Técnica 📚
-- **HTML**: Utilizado para estruturar a página do jogo.
-- **CSS**: Utilizado para estilizar os elementos HTML e criar uma interface de usuário agradável.
-- **JavaScript**: Utilizado para implementar a lógica do jogo, incluindo a embaralhação das cartas, a verificação de pares e a atualização da pontuação.
+### Technical Description 📚
+- **HTML**: Used to structure the game page.
+- **CSS**: Used to style the HTML elements and create a pleasing user interface.
+- **JavaScript**: Used to implement the game logic, including shuffling the cards, checking pairs, and updating the score.
 
-### Como Usar ℹ️
-1. **Baixar**: Você pode baixar os arquivos HTML (index.html), CSS (styles.css) e JavaScript (app.js) deste repositório.
-2. **Abrir arquivo HTML**: Abra o arquivo index.html em um navegador da web.
-3. **Iniciar o jogo**: O tabuleiro será exibido com todas as cartas viradas para baixo. Clique em duas cartas para virá-las e tentar encontrar um par.
-4. **Encontrar pares**: Continue virando as cartas até encontrar todos os pares correspondentes.
-5. **Pontuação**: Sua pontuação será exibida e atualizada à medida que você joga. Você receberá 10 pontos para cada par encontrado e perderá 1 ponto para cada tentativa errada.
+### How to Use ℹ️
+1. **Download**: You can download the HTML (index.html), CSS (styles.css), and JavaScript (app.js) files from this repository.
+2. **Open HTML file**: Open the index.html file in a web browser.
+3. **Start the game**: The board will be displayed with all cards face down. Click on two cards to flip them and try to find a pair.
+4. **Find pairs**: Continue flipping cards until you find all matching pairs.
+5. **Score**: Your score will be displayed and updated as you play. You will receive 10 points for each pair found and lose 1 point for each incorrect attempt.
 
-### VÍdeo 
+### Video 
 
-Você pode ver uma demosnstração do jogo:
+You can view a demonstration of the game:
 
-- [Assista ao vídeo](https://github.com/leticiaveigacs/memoryGame/issues/1#issue-2410707928) 
+- [Watch the video](https://github.com/leticiaveigacs/memoryGame/issues/1#issue-2410707928) 
 
-
-### Como Executar 💻
-1. **Clone este repositório para o seu ambiente local**:
+### How to Run 💻
+1. **Clone this repository to your local environment**:
     
-bash
-    git clone https://github.com/leticiaveigacs/memoryGame.git
+```bash
+git clone https://github.com/leticiaveigacs/memoryGame.git
+```
 
-2. **Navegue até o diretório do projeto**:
+2. **Navigate to the project directory**:
     
-bash
-    cd memoryGame
+```bash
+cd memoryGame
+```
 
-3. **Abra o arquivo index.html em seu navegador da web**.
+3. **Open the index.html file in your web browser**.
 
-
-### Agradecimentos 🙏
-Se tiver alguma dúvida ou feedback, não hesite em entrar em contato. 
+### Acknowledgements 🙏
+If you have any questions or feedback, please do not hesitate to get in touch.
 
