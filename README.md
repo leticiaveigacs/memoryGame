@@ -2,7 +2,7 @@
 
 This is a classic memory game built using HTML, CSS, and JavaScript. The objective of the game is to find all pairs of matching cards with the fewest attempts possible.
 
-### Game Information 🕹️
+### Game Information 🕹️ 
 - The game consists of 12 cards (6 pairs).
 - The cards are shuffled randomly each time the game starts.
 - The game ends when all pairs are found, displaying the total number of attempts and the total time in seconds.
